@@ -370,9 +370,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 - **Author**: Umair
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
+- **Email**: umairinayat975@example.com
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/umairinayat)
+- **GitHub**: [Your GitHub](https://github.com/umairinayat)
 
 ---
 
