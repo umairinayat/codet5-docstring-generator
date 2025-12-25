@@ -349,7 +349,7 @@ If you use this implementation in your research, please cite:
   title = {CodeT5 Docstring Generator: Production-Ready Implementation},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/codet5-docstring-generator}
+  url = {https://github.com/umairinayat/codet5-docstring-generator}
 }
 ```
 
