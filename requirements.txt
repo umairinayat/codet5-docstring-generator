@@ -1,0 +1,37 @@
+# Core Dependencies
+torch
+transformers
+datasets
+
+# GPU Optimization
+accelerate
+bitsandbytes
+
+# Evaluation Metrics
+sacrebleu
+rouge-score
+
+# API Dependencies
+flask
+flask-cors
+
+# Utilities
+numpy
+pandas
+tqdm
+regex
+
+# Visualization and Logging
+tensorboard
+wandb
+matplotlib
+seaborn
+
+# Code Quality
+black
+flake8
+pytest
+
+# Optional: For advanced features
+sentencepiece  # For tokenization
+tree-sitter    # For code parsing
